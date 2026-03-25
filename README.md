@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ahmedessamrizk/ahmedessamrizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Everyone&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Everyone&fontSize=40" />
 </p>
