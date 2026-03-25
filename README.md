@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e53935,100:e35d5b&height=200&section=header&text=Welcome%20Everyone&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Welcome%20Everyone&fontSize=60" />
 </p>
