@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center" color="white">
+<p align="center" style="color:white">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:135deg,50:0d1117,100:4f7bff&height=200&section=header&text=Welcome%20Everyone&fontSize=60" />
 </p>
