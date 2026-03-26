@@ -38,7 +38,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" title="Jest" width="55" height="55" style="margin-right:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="55" height="55" style="margin-right:10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="Odoo" title="Odoo" width="55" height="55"/>
 </p>
 
 <h4>Frontend Development</h4>
