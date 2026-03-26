@@ -62,11 +62,11 @@
 
 <p align="center">
   <a href="mailto:ahmed.essam7722@gmail.com">
-    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/main/assests/envelope_15047426.png" />
+    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/envelope_15047426.png" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-essam7722/">
-    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/main/assests/linkedin_1383262.png" />
+    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/linkedin_1383262.png" />
   </a>
 </p>
 
