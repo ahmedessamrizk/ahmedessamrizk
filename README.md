@@ -61,6 +61,16 @@
 </p></div>
 
 <p align="center">
+  <a href="mailto:ahmed.essam7722@gmail.com">
+    <img height="40" src="https://github.com/ahmedessamrizk/<repo_name>/raw/main/assests/envelope_15047426.png" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-essam7722/">
+    <img height="40" src="https://github.com/ahmedessamrizk/<repo_name>/raw/main/assests/linkedin_1383262.png" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=cobalt"/>
 </p>
 
