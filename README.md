@@ -70,15 +70,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="55" height="55"/>
 </p></div>
 
-<p align="center">
-  <a href="mailto:ahmed.essam7722@gmail.com">
-    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/envelope_15047426.png" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-essam7722/">
-    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/linkedin_1383262.png" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&theme=cobalt"/>
