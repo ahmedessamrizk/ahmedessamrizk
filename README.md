@@ -10,7 +10,8 @@
          alt="Hunter X Hunter GIF" 
          style="height: 200px; width: auto;" />
 </div>
----
+
+#---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me </h2>
 <p>
