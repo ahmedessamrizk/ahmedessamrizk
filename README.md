@@ -23,7 +23,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me </h2>
 
-- 🎓 Graduated in Computer Engineering from Ain Shams University (B+, 3.3). <br>
+- 🎓 Graduated in Computer Engineering from Ain Shams University. <br>
 - 💼 Experienced in MERN Stack (MongoDB, Express.js, React.js, Node.js), NestJS, API & Security Architecture, and real-time systems.<br>
 - 🌱 Currently deepening expertise in Java and Spring for backend development.<br>
 
