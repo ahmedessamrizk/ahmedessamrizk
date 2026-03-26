@@ -8,8 +8,12 @@
          style="height: 200px; width: auto;" />
 </div>
   
-<h1 align="center">I'm Ahmed Essam Rizk</h1>
-<h3 align="center">Software Engineer | Curious Mind Eager to Learn</h3>
+<h1 align="center">👋 Hi, I'm Ahmed Essam</h1>
+<h3 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h3>
+
+
+
+
 
 <p align="left">
 </p>
