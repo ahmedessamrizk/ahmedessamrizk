@@ -3,6 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=70&section=header&text=👋%20Hi,%20I'm%20Ahmed%20Essam%20Rizk&fontSize=35&fontColor=000000&animation=fadeIn&theme=cobalt" />
 <h2 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h2>
 
+<p align="center">
+  <a href="mailto:ahmed.essam7722@gmail.com">
+    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/envelope_15047426.png" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-essam7722/">
+    <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/linkedin_1383262.png" />
+  </a>
+</p>
+
 <div align="center" style="background-color: blue; height: 300px;">
     <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/Hunter X Hunter GIF.gif" 
          alt="Hunter X Hunter GIF" 
