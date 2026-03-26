@@ -15,9 +15,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me </h2>
 <p align="left">
-🎓 Graduated in Computer Engineering from Ain Shams University (B+, 3.3).
-💼 Experienced in MERN Stack (MongoDB, Express.js, React.js, Node.js), NestJS, API & Security Architecture, and real-time systems using Socket.io.
-🌱 Currently deepening expertise in Java and Spring for backend development.
+🎓 Graduated in Computer Engineering from Ain Shams University (B+, 3.3). <br>
+💼 Experienced in MERN Stack (MongoDB, Express.js, React.js, Node.js), NestJS, API & Security Architecture, and real-time systems using Socket.io.<br>
+🌱 Currently deepening expertise in Java and Spring for backend development.<br>
 📫 Reach me at ahmed.essam7722@gmail.com.
 </p>
 
