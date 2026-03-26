@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=100&section=header&text=Welcome%20Everyone&fontSize=40&fontColor=000000&animation=fadeIn" />
 
 <div align="center" style="height: 10; background-color:blue">
-    <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/Hunter X Hunter GIF.gif" alt="Hunter X Hunter GIF" style="max-width: 100%; height: auto;" />
+    <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/Hunter X Hunter GIF.gif" alt="Hunter X Hunter GIF" style="max-width: 80%; height: auto;" />
 </div>
   
 <h1 align="center">I'm Ahmed Essam Rizk</h1>
