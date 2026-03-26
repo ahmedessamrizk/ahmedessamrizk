@@ -1,15 +1,15 @@
 <!-- Introduction -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=80&section=header&text=Welcome%20Everyone&fontSize=40&fontColor=000000&animation=fadeIn&theme=cobalt" />
+  
+<h1 align="center">👋 Hi, I'm Ahmed Essam</h1>
+<h3 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h3>
 
 <div align="center" style="background-color: blue; height: 300px;">
     <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/Hunter X Hunter GIF.gif" 
          alt="Hunter X Hunter GIF" 
          style="height: 200px; width: auto;" />
 </div>
-  
-<h1 align="center">👋 Hi, I'm Ahmed Essam</h1>
-<h3 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h3>
 
 
 
