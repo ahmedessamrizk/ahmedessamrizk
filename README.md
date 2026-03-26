@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <p align="center" style="margin-bottom:0px">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=80&section=header&text=Welcome%20Everyone&fontSize=20&fontColor=000000&animation=fadeIn&theme=cobalt" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=80&section=header&text=Welcome%30Everyone&fontSize=20&fontColor=000000&animation=fadeIn&theme=cobalt" />
   
 <h1 align="center" style="margin-top:0px">👋 Hi, I'm Ahmed Essam</h1>
 <h3 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h3>
