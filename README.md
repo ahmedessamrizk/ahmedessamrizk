@@ -1,8 +1,8 @@
 <!-- Introduction -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=80&section=header&text=Welcome%20Everyone&fontSize=35&fontColor=000000&animation=fadeIn&theme=cobalt" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=80&section=header&text=Hi,%10I'm%10Ahmed%10Essam%10Rizk&fontSize=35&fontColor=000000&animation=fadeIn&theme=cobalt" />
   
-<h1 align="center">👋 Hi, I'm Ahmed Essam Rizk</h1>
+<h1 align="center">👋 </h1>
 <h3 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h3>
 
 <div align="center" style="background-color: blue; height: 300px;">
