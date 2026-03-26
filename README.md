@@ -32,14 +32,14 @@
 <h4>Backend Development</h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="55" height="55" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" title="NestJS" width="55" height="55" style="margin-right:10px;"/>
+  <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/nestjs-svgrepo-com.svg" alt="NestJS" title="NestJS" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" title="Jest" width="55" height="55" style="margin-right:10px;"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="55" height="55" style="margin-right:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="Odoo" title="Odoo" width="55" height="55"/>
+  <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/odoo.svg" alt="Odoo" title="Odoo" width="55" height="55"/>
 </p>
 
 <h4>Frontend Development</h4>
