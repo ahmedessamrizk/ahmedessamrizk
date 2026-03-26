@@ -17,6 +17,6 @@
   </a>
 </p>
 
-<div align="center">
-    <img height="50" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/Hunter X Hunter GIF.gif" />
+<div align="center" width="100%">
+    <img height="50" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/Hunter X Hunter GIF.gif" width="100%"/>
 </div>
