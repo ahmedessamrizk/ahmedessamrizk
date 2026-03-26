@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=80&section=header&text=Welcome%20Everyone&fontSize=35&fontColor=000000&animation=fadeIn&theme=cobalt" />
   
-<h1 align="center" style="margin:0px">👋 Hi, I'm Ahmed Essam Rizk</h1>
+<h1 align="center">👋 Hi, I'm Ahmed Essam Rizk</h1>
 <h3 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h3>
 
 <div align="center" style="background-color: blue; height: 300px;">
@@ -11,11 +11,14 @@
          style="height: 200px; width: auto;" />
 </div>
 
-#---
+
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me </h2>
-<p>
-  
+<p align="left">
+🎓 Graduated in Computer Engineering from Ain Shams University (B+, 3.3).
+💼 Experienced in MERN Stack (MongoDB, Express.js, React.js, Node.js), NestJS, API & Security Architecture, and real-time systems using Socket.io.
+🌱 Currently deepening expertise in Java and Spring for backend development.
+📫 Reach me at ahmed.essam7722@gmail.com.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
