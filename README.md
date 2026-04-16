@@ -13,11 +13,11 @@
   </a>
 </p>
 
-<div align="center" style="background-color: blue; height: 300px;">
+<!-- <div align="center" style="background-color: blue; height: 300px;">
     <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/Hunter X Hunter GIF.gif" 
          alt="Hunter X Hunter GIF" 
          style="height: 200px; width: auto;" />
-</div>
+</div> -->
 
 
 
