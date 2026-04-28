@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=90&section=header&text=👋%20Hi,%20I'm%20Ahmed%20Essam%20Rizk&fontSize=35&fontColor=000000&animation=fadeIn&theme=cobalt" />
 <h2 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast</h2>
-
+</p>
 <p align="center">
   <a href="mailto:ahmed.essam7722@gmail.com">
     <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/envelope_15047426.png" />
