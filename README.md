@@ -1,8 +1,10 @@
 <!-- Introduction -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13547a,100:80d0c7&height=90&section=header&text=👋%20Hi,%20I'm%20Ahmed%20Essam%20Rizk&fontSize=35&fontColor=000000&animation=fadeIn&theme=cobalt" />
-  <h2 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast </h2>
 </p>
+
+<h2 align="center">💻 Software Engineer | 🚀 MERN Stack | 🤖 AI Enthusiast </h2>
+
 <p align="center">
   <a href="mailto:ahmed.essam7722@gmail.com">
     <img height="40" src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/envelope_15047426.png" />
@@ -28,7 +30,7 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div align="left">
   <h4>Backend Development</h4>
-  <p style="display:flex; flex-wrap:wrap; gap:10px;">
+  <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" width="55" height="55" />
     <img src="https://github.com/ahmedessamrizk/ahmedessamrizk/raw/master/assests/nestjs-svgrepo-com.svg" alt="NestJS" title="NestJS" width="55" height="55" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="55" height="55" />
